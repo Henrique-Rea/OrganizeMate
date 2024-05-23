@@ -19,22 +19,4 @@ Executable: .exe
 Compressed Archives: .zip, .rar
 Video (MP4): .mp4
 Video (MOV): .mov
-Example
-Suppose you have a folder with the following files:
 
-my_folder/
-    file1.jpg
-    file2.xlsx
-    file3.pdf
-    ...
-
-After running the script, the folder structure will be:
-
-my_folder/
-    Images/
-        file1.jpg
-    Excel/
-        file2.xlsx
-    PDF/
-        file3.pdf
-    ...
